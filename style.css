@@ -1,0 +1,39 @@
+h1 {
+
+    color: red;
+    padding-top: 20px;
+}
+
+.main {
+
+    padding-top: 20px;
+}
+
+.page1 {
+
+    padding-top: 20px;
+
+}
+
+.inside {
+    color: rgb(177, 177, 14);
+
+    padding-top: 20px;
+}
+
+
+
+body {
+    list-style-position: inside;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+    padding-top: 20px;
+}
+.a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
